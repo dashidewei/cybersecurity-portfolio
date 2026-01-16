@@ -51,3 +51,8 @@ With a solid foundation in cybersecurity principles and a continuous learning mi
 
 * **Immediate Goal**: To secure a position as a **Junior Penetration Tester** or **SOC Analyst** where I can apply my experience with **Cisco CyberOps** and various security tools to protect organizational infrastructure.
 * **Long-term Vision**: I aim to become a **Lead Security Consultant**, specializing in vulnerability research and infrastructure security. I am dedicated to continuous professional development, with plans to pursue the **OSCP (Offensive Security Certified Professional)** certification to validate my advanced technical capabilities.
+---
+## 7. Contact Information
+* **Email**: ftucxk@gmail.com
+* **GitHub**: https://github.com/dashidewei
+* **LinkedIn**: [[这里放入你的LinkedIn个人主页链接]](https://www.linkedin.com/in/%E4%B8%80%E4%B8%81-%E9%A9%AC-066366397/)
