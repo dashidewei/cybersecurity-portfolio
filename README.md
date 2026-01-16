@@ -55,4 +55,4 @@ With a solid foundation in cybersecurity principles and a continuous learning mi
 ## 7. Contact Information
 * **Email**: ftucxk@gmail.com
 * **GitHub**: https://github.com/dashidewei
-* **LinkedIn**: [[这里放入你的LinkedIn个人主页链接]](https://www.linkedin.com/in/%E4%B8%80%E4%B8%81-%E9%A9%AC-066366397/)
+* **LinkedIn**: https://www.linkedin.com/in/%E4%B8%80%E4%B8%81-%E9%A9%AC-066366397/
